@@ -1,5 +1,3 @@
-require 'pry-byebug'
-
 def merge_sort(arr)
   return arr if arr.length < 2
   
